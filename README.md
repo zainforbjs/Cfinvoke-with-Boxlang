@@ -1,1 +1,2 @@
 # Cfinvoke-with-Boxlang
+This dummy project is designed to test the functionality of the cfinvoke tag with BoxLang. In the index.cfm file, we are setting two arguments: method and component. These are stored in the arguments scope and then passed as a struct to cfinvoke. The other file is EventMethods.cfc, which contains the function we are calling using the cfinvoke tag. The final file is server.json, which contains the necessary initialization arguments for starting a server through CommandBox.
