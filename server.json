@@ -1,0 +1,12 @@
+{
+    "name":"dummy_coldfusion",
+    "web":{
+        "host":"localhost"
+    },
+    "app":{
+        "cfengine":"boxlang"
+    },
+    "JVM":{
+        "javaVersion":"openjdk21_jdk"
+    }
+}
